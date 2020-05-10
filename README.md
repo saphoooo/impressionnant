@@ -25,6 +25,12 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
   * **Nombre de participants à la dernière édition**: ~5000 personnes
   * **Twitter**: 
 
+* [DEVOXX France](https://www.devoxx.fr/)
+  * **Description**: La conférence des développeurs passionnés.
+  * **Lieu**: Paris (75)
+  * **Nombre de participants à la dernière édition**:
+  * **Twitter**: [@DevoxxFR](https://twitter.com/DevoxxFR)
+
 * [Snowcamp](https://snowcamp.io/fr/)
   * **Description**: Une conférence unique pour les devs, les ops et les archis.
   * **Lieu**: Grenoble (38)
