@@ -6,8 +6,13 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
   * [France](https://github.com/saphoooo/impressionnant/blob/master/README.md#france)
   * [Belgique](https://github.com/saphoooo/impressionnant/blob/master/README.md#belgique)
   * [Luxembourg](https://github.com/saphoooo/impressionnant/blob/master/README.md#luxembourg)
+  * [Online](https://github.com/saphoooo/impressionnant/blob/master/README.md#online)
 * [Webinaires](https://github.com/saphoooo/impressionnant/blob/master/README.md#webinaires)
 * [Meetups](https://github.com/saphoooo/impressionnant/blob/master/README.md#meetups)
+  * [France](https://github.com/saphoooo/impressionnant/blob/master/README.md#france-1)
+  * [Belgique](https://github.com/saphoooo/impressionnant/blob/master/README.md#belgique-1)
+  * [Luxembourg](https://github.com/saphoooo/impressionnant/blob/master/README.md#luxembourg-1)
+  * [Online](https://github.com/saphoooo/impressionnant/blob/master/README.md#online-1)
 * [Podcasts](https://github.com/saphoooo/impressionnant/blob/master/README.md#podcasts)
 * [Contribuer](https://github.com/saphoooo/impressionnant/blob/master/README.md#contribuer)
 
