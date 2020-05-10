@@ -3,6 +3,9 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
 
 # Index
 * [Conférences](https://github.com/saphoooo/impressionnant/blob/master/README.md#conf%C3%A9rences)
+  * [France](https://github.com/saphoooo/impressionnant/blob/master/README.md#france)
+  * [Belgique](https://github.com/saphoooo/impressionnant/blob/master/README.md#belgique)
+  * [Luxembourg](https://github.com/saphoooo/impressionnant/blob/master/README.md#luxembourg)
 * [Webinaires](https://github.com/saphoooo/impressionnant/blob/master/README.md#webinaires)
 * [Meetups](https://github.com/saphoooo/impressionnant/blob/master/README.md#meetups)
 * [Podcasts](https://github.com/saphoooo/impressionnant/blob/master/README.md#podcasts)
