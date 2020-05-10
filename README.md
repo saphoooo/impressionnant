@@ -55,6 +55,12 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
   * **Nombre de participants à la dernière édition**:
   * **Twitter**: [@rivieradev](https://twitter.com/rivieradev)
 
+* [Cloud Expo Europe](https://www.cloudexpoeurope.fr/)
+  * **Description**: Le rendez-vous de référence pour tous les professionnel tech.
+  * **Lieu**: Paris (75)
+  * **Nombre de participants à la dernière édition**:
+  * **Twitter**: [@CEE_Paris_](https://twitter.com/CEE_Paris_)
+
 ## Belgique
 * [FOSDEM](https://fosdem.org/2020/)
   * **Description**: FOSDEM est un événement gratuit permettant aux développeurs de se rencontrer, de partager des idées et de collaborer..
