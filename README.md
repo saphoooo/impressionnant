@@ -19,10 +19,43 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
 # Conférences
 
 ## France
+* [DevOps D-Day](https://2019.devops-dday.com/)
+  * **Description**: Depuis 2015, le DEVOPS D-DAY rassemble tous les acteurs du monde IT passionnés par l'écosystème DevOps, Cloud, Docker… mais aussi du Libre !
+  * **Lieu**: Marseille (13)
+  * **Nombre de participants à la dernière édition**: ~5000 personnes
+  * **Twitter**: 
+
+* [Snowcamp](https://snowcamp.io/fr/)
+  * **Description**: Une conférence unique pour les devs, les ops et les archis.
+  * **Lieu**: Grenoble (38)
+  * **Nombre de participants à la dernière édition**:
+  * **Twitter**: [@SnowCampIO](https://twitter.com/SnowCampIO)
+
+* [MiXiT](https://mixitconf.org/)
+  * **Description**: MiXiT, c’est deux jours de découverte et de rencontres conviviales, dédiés à la mixité des sujets, des technologies, mais aussi des participants.
+  * **Lieu**: Lyon (69)
+  * **Nombre de participants à la dernière édition**:
+  * **Twitter**: [@mixitconf](https://twitter.com/mixitconf)
+
+* [BlendWebMix](https://www.blendwebmix.com/)
+  * **Description**: BlendWebMix est un événement unique sur les nouveaux métiers, les nouveaux usages et les nouvelles technologies. 
+  * **Lieu**: Lyon (69)
+  * **Nombre de participants à la dernière édition**:
+  * **Twitter**: [@blendwebmix](https://twitter.com/blendwebmix)
 
 ## Belgique
+* [FOSDEM](https://fosdem.org/2020/)
+  * **Description**: FOSDEM est un événement gratuit permettant aux développeurs de se rencontrer, de partager des idées et de collaborer..
+  * **Lieu**: Bruxelles
+  * **Nombre de participants à la dernière édition**:
+  * **Twitter**: [@fosdem](https://twitter.com/fosdem)
 
 ## Luxembourg
+* [Voxxed Days](https://luxembourg.voxxeddays.com/fr/)
+  * **Description**: Voxxed Days Luxembourg est un évènement IT pour les développeurs, organisé par des développeurs, de la famille Devoxx.
+  * **Lieu**: Luxembourg
+  * **Nombre de participants à la dernière édition**:
+  * **Twitter**: [@voxxed_lu](https://twitter.com/voxxed_lu)
 
 ## Online
 
@@ -44,7 +77,7 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
 
   * **Description**: Electro Monkeys est le podcast le plus décalé de la planète sur les technologies cloud natives ! On y parle de toutes les technologies de la CNCF, Kubernetes bien sûr, mais aussi Serverless, Service Mesh, Harbour, NATS et les autres...
   * **Fréquence**: Une à deux fois par semaine
-  * **Animateur**: Stef @[saphoooo](http://twitter.com/saphoooo)
+  * **Animateur**: [Stef](http://twitter.com/saphoooo)
   * **Durée**: 55 - 65 mins, régulièrement ~60 mins
 
 * [Le Podcast Tech !](https://lilianalvarez.com/podcast/)
