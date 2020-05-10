@@ -172,3 +172,5 @@ Cette liste ne fait que commencer, veuillez contribuer à la rendre super génia
 * Vous voulez retirer une liste : soumettez une pull request.
 * Vous voulez soumettre une correction, apporter une précision, faire une modification : soumettez une pull request.
 * Cette liste n'existerait pas sans vos contributions, donc soumettez vos pull requests.
+* Le nom de votre branche doit correspondre au nom de l'élément que vous voulez ajouter.
+* Un seul ajout à la foi.
