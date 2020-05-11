@@ -4,19 +4,19 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
 ![impressionnant](https://user-images.githubusercontent.com/13923756/81512413-b994e180-9320-11ea-9fe7-70fb9d7babdd.png)
 
 # Index
-* [Conférences](https://github.com/saphoooo/impressionnant/blob/master/README.md#conf%C3%A9rences)
-  * [France](https://github.com/saphoooo/impressionnant/blob/master/README.md#france)
-  * [Belgique](https://github.com/saphoooo/impressionnant/blob/master/README.md#belgique)
-  * [Luxembourg](https://github.com/saphoooo/impressionnant/blob/master/README.md#luxembourg)
-  * [Online](https://github.com/saphoooo/impressionnant/blob/master/README.md#online)
-* [Webinaires](https://github.com/saphoooo/impressionnant/blob/master/README.md#webinaires)
-* [Meetups](https://github.com/saphoooo/impressionnant/blob/master/README.md#meetups)
-  * [France](https://github.com/saphoooo/impressionnant/blob/master/README.md#france-1)
-  * [Belgique](https://github.com/saphoooo/impressionnant/blob/master/README.md#belgique-1)
-  * [Luxembourg](https://github.com/saphoooo/impressionnant/blob/master/README.md#luxembourg-1)
-  * [Online](https://github.com/saphoooo/impressionnant/blob/master/README.md#online-1)
-* [Podcasts](https://github.com/saphoooo/impressionnant/blob/master/README.md#podcasts)
-* [Contribuer](https://github.com/saphoooo/impressionnant/blob/master/README.md#contribuer)
+* [Conférences](README.md#conf%C3%A9rences)
+  * [France](README.md#france)
+  * [Belgique](README.md#belgique)
+  * [Luxembourg](README.md#luxembourg)
+  * [Online](README.md#online)
+* [Webinaires](README.md#webinaires)
+* [Meetups](README.md#meetups)
+  * [France](README.md#france-1)
+  * [Belgique](README.md#belgique-1)
+  * [Luxembourg](README.md#luxembourg-1)
+  * [Online](README.md#online-1)
+* [Podcasts](README.md#podcasts)
+* [Contribuer](README.md#contribuer)
 
 # Conférences
 
@@ -63,6 +63,12 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
   * **Nombre de participants à la dernière édition**:
   * **Twitter**: [@CEE_Paris_](https://twitter.com/CEE_Paris_)
 
+* [Sunny Tech](https://sunny-tech.io)
+  * **Description**: Sunny Tech est la 1ère conférence Tech organisée à Montpellier.
+  * **Lieu**: Montpellier (34)
+  * **Nombre de participants à la dernière édition**: ~500 personnes
+  * **Twitter**: [@sunnytech_mtp](https://twitter.com/sunnytech_mtp)
+
 ## Belgique
 * [FOSDEM](https://fosdem.org/2020/)
   * **Description**: FOSDEM est un événement gratuit permettant aux développeurs de se rencontrer, de partager des idées et de collaborer..
@@ -84,6 +90,12 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
 # Meetups
 
 ## France
+
+* [Devops Aix Marseille](https://www.meetup.com/fr-FR/Devops-Aix-Marseille/)
+  * **Description**: Le meetup #devops-aix-marseille est pour tous les devops, les devs et les ops de la région Aix-Marseille et alentours..
+  * **Lieu**: Marseille (13)
+  * **Nombre de participants à la dernière édition**:
+
 
 ## Belgique
 
