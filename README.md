@@ -163,6 +163,13 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
   * **Animateur**: [Vincent Heuschling](https://twitter.com/vhe74)
   * **Durée**: 70 - 90 mins, régulièrement ~75 mins
 
+* [Les Cast Codeurs](https://lescastcodeurs.com/)
+
+  * **Description**: Les Cast Codeurs est un podcast en français de, par et pour les développeurs.
+  * **Fréquence**: Une fois toutes les deux semaines
+  * **Animateur**: [lescastcodeurs](https://twitter.com/lescastcodeurs)
+  * **Durée**: 60 - 120 mins, régulièrement ~100 mins
+
 # Contribuer
 Les contributions sont les bienvenues!
 
