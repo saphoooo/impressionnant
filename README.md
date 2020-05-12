@@ -76,6 +76,12 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
   * **Nombre de participants à la dernière édition**: 
   * **Twitter**: [@jugsummercamp](https://twitter.com/jugsummercamp)
 
+* [BreizhCamp](https://www.breizhcamp.org/)
+  * **Description**: La conférence à l'ouest.
+  * **Lieu**: Rennes (35)
+  * **Nombre de participants à la dernière édition**: 
+  * **Twitter**: [@breizhcamp](https://twitter.com/breizhcamp)
+
 ## Belgique
 * [FOSDEM](https://fosdem.org/2020/)
   * **Description**: FOSDEM est un événement gratuit permettant aux développeurs de se rencontrer, de partager des idées et de collaborer..
