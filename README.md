@@ -182,6 +182,14 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
   * **Animateur**: [lescastcodeurs](https://twitter.com/lescastcodeurs)
   * **Durée**: 60 - 120 mins, régulièrement ~100 mins
 
+# Forum
+
+* [Les Compagnons du DevOps](https://forum.compagnons-devops.fr/)
+
+  * **Description**: L’objectif des Compagnons du DevOps, est de nous unir, d’échanger entre pairs, de développer une culture DevOps dans nos entreprises. Pas juste en France, mais dans toute la francophonie.
+  * **Animateur**: [Christφphe Chaudier](https://twitter.com/c_chaudier)
+
+
 # Contribuer
 Les contributions sont les bienvenues!
 
