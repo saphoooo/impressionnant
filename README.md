@@ -70,6 +70,12 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
   * **Nombre de participants à la dernière édition**: ~500 personnes
   * **Twitter**: [@sunnytech_mtp](https://twitter.com/sunnytech_mtp)
 
+* [JUG Summer Camp](https://www.jugsummercamp.org/)
+  * **Description**: LA conférence Java de la rentrée.
+  * **Lieu**: La Rochelle (17)
+  * **Nombre de participants à la dernière édition**: 
+  * **Twitter**: [@jugsummercamp](https://twitter.com/jugsummercamp)
+
 ## Belgique
 * [FOSDEM](https://fosdem.org/2020/)
   * **Description**: FOSDEM est un événement gratuit permettant aux développeurs de se rencontrer, de partager des idées et de collaborer..
