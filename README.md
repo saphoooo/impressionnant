@@ -16,6 +16,7 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
   * [Luxembourg](README.md#luxembourg-1)
   * [Online](README.md#online-1)
 * [Podcasts](README.md#podcasts)
+* [Forum](README.md#forum)
 * [Contribuer](README.md#contribuer)
 
 # Conférences
