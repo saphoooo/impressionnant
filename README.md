@@ -183,6 +183,13 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
   * **Animateur**: [lescastcodeurs](https://twitter.com/lescastcodeurs)
   * **Durée**: 60 - 120 mins, régulièrement ~100 mins
 
+* [Le Podcast Human Coders](https://blog.humancoders.com/podcast-human-coders/)
+
+  * **Description**: Un podcast pour les développeur·se·s débutant·e·s, expérimenté·e·s ou autodidactes, étudiant·e·s en informatique, quelque soit leurs langages et technos de prédilection !
+  * **Fréquence**: Une fois toutes les deux semaines
+  * **Animateur**: 
+  * **Durée**: 15 - 35 mins, régulièrement ~30 mins
+
 # Forum
 
 * [Les Compagnons du DevOps](https://forum.compagnons-devops.fr/)
