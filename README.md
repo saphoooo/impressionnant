@@ -1,7 +1,7 @@
 # impressionnant
 Une liste organisée de toutes les impressionnantes ressources technologiques francophones, inspiré par [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
-![impressionnant](https://user-images.githubusercontent.com/13923756/81512413-b994e180-9320-11ea-9fe7-70fb9d7babdd.png)
+![impressionnant](https://user-images.githubusercontent.com/13923756/81742515-8711f280-94a0-11ea-8ad8-6ff364024adf.png)
 
 # Index
 * [Conférences](README.md#conf%C3%A9rences)
