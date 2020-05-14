@@ -153,9 +153,16 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
   * **Animateur**: Thomas Gerardin
   * **Durée**:
 
-* [p7t](https://p7t.tech/)
+* [Dev'Obs](https://devobs.p7t.tech/)
 
-  * **Description**: Des podcasts où technique n'est pas un gros mot.
+  * **Description**: Le magazine et observatoire du DevOps
+  * **Fréquence**:
+  * **Animateur**: [Guilhem Lettron](https://twitter.com/guilhemlettron)
+  * **Durée**: 50 mins
+
+* [Dans Ton Kube](https://dtk.p7t.tech/)
+
+  * **Description**: Parlons Kubernetes.
   * **Fréquence**:
   * **Animateur**: [Guilhem Lettron](https://twitter.com/guilhemlettron)
   * **Durée**: 50 mins
