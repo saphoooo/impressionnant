@@ -129,8 +129,8 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
 
 * [Electro Monkeys](https://electro-monkeys.fr/) ([iTunes](https://podcasts.apple.com/fr/podcast/electro-monkeys/id1503255739) | [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS85MjY3OTEucnNz) | [Podcast Addict](https://podplayer.net/?podId=2732553) | [Spotify](https://open.spotify.com/show/3P9JtwxgNJktyemtinMcLe))
 
-  * **Description**: Electro Monkeys est le podcast le plus décalé de la planète sur les technologies cloud natives ! On y parle de toutes les technologies de la CNCF, Kubernetes bien sûr, mais aussi Serverless, Service Mesh, Harbour, NATS et les autres...
-  * **Fréquence**: Une à deux fois par semaine
+  * **Description**: Electro Monkeys est le podcast le plus décalé de la planète sur Kubernetes et les technologies cloud natives ! On y parle de toutes les technologies de la CNCF, de Kubernetes bien sûr, mais aussi Serverless, Cloud, Devs, Securité, Makers...
+  * **Fréquence**: Deux fois par semaine
   * **Animateur**: [Stef](http://twitter.com/saphoooo)
   * **Durée**: 55 - 65 mins, régulièrement ~60 mins
 
