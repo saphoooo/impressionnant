@@ -91,7 +91,7 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
 * [FlowCoon](https://fr.flowcon.io/)
   * **Description**: Conférence sur l'organisation du travail d'équipe, afin d'assurer un flux continu de valeur.
   * **Lieu**: En ligne pour l'année 2020
-  * **Nombre de participants à la dernière édition**: 
+  * **Nombre de participants à la dernière édition**: 300/400
   * **Twitter**: [@FlowConFR](https://twitter.com/FlowConFR)
 
 ## Belgique
