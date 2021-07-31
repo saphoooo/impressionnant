@@ -94,6 +94,12 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
   * **Nombre de participants à la dernière édition**: 300/400
   * **Twitter**: [@FlowConFR](https://twitter.com/FlowConFR)
 
+* [Open Source Experience](https://www.opensource-experience.com/)
+  * **Description**: Open Source Experience a pour ambition de réunir pendant 2 jours toute la communauté experte de l’open source dans une nouvelle dynamique d’un secteur en perpétuelle innovation.
+  * **Lieu**: Paris (75)
+  * **Nombre de participants à la dernière édition**:
+  * **Twitter**: [@OSXP_Paris](https://twitter.com/OSXP_Paris)
+
 ## Belgique
 * [FOSDEM](https://fosdem.org/2020/)
   * **Description**: FOSDEM est un événement gratuit permettant aux développeurs de se rencontrer, de partager des idées et de collaborer..
