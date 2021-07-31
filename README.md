@@ -236,6 +236,13 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
   * **Animateur**: 
   * **Durée**: 15 - 35 mins, régulièrement ~30 mins
 
+* [Message à caractère informatique](https://www.clever-cloud.com/fr/podcast/)
+
+  * **Description**: Message à caractère informatique est un podcast réalisé par Clever Cloud. Nous commentons les derniers liens de veille techno postés dans notre Slack.
+  * **Fréquence**: Une fois toutes les deux semaines
+  * **Animateur**: [@Clever Cloud](https://twitter.com/clever_cloud)
+  * **Durée**: 90 - 120 mins
+
 # Forum
 
 * [Les Compagnons du DevOps](https://forum.compagnons-devops.fr/)
