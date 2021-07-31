@@ -100,6 +100,12 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
   * **Nombre de participants à la dernière édition**:
   * **Twitter**: [@OSXP_Paris](https://twitter.com/OSXP_Paris)
 
+* [Watch Awesome Xperts](https://www.waxconf.fr/)
+  * **Description**: WAX, la conférence 100%REX en présentiel et en plein air à Marseille. Thématiques Cloud et DevOps.
+  * **Lieu**: Marseille (13)
+  * **Nombre de participants à la dernière édition**:
+  * **Twitter**: [@FGTECHTEAM](https://twitter.com/FGTECHTEAM)
+
 ## Belgique
 * [FOSDEM](https://fosdem.org/2020/)
   * **Description**: FOSDEM est un événement gratuit permettant aux développeurs de se rencontrer, de partager des idées et de collaborer..
