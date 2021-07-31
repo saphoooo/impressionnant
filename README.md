@@ -173,12 +173,12 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
   * **Animateur**: [Benoit Gantaume](https://twitter.com/gantaume)
   * **Durée**: 15 - 35 mins, régulièrement ~25 mins
 
-* [WeSpeakCloud](https://blog.wescale.fr/tag/podcast/)
+* [WeSpeakCloud](https://www.podcastics.com/podcast/wespeakcloud/) ([iTunes](https://podcasts.apple.com/fr/podcast/wespeakcloud/id1503342723) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5wb2RjYXN0aWNzLmNvbS9wb2RjYXN0aWNzL3BvZGNhc3RzL3Jzcy80MzhfNmI2MTM1ZmFlOTMxMTFlNDJhY2I3NTU2YjJjYzZlZjEucnNz) | [Podcast Addict](https://podcastaddict.com/podcast/2664488) | [Spotify](https://open.spotify.com/show/2IgZdGg8116b5QlA0oqGOB) | [Deezer](https://www.deezer.com/us/show/958302))
 
-  * **Description**: #WeSpeakCloud : Le podcast
-  * **Fréquence**:
-  * **Animateur**: Thomas Gerardin
-  * **Durée**:
+  * **Description**: Comprendre les problématiques complexes qui nous concernent tous comme la sécurité ou le DevOps, au travers d'interviews d'experts venus d'horizons différents.
+  * **Fréquence**: 3 épisodes par trimestre
+  * **Animateur**: [Thomas Gerardin](https://twitter.com/damyr_fr)
+  * **Durée**: 25 - 35 minutes
 
 * [Dev'Obs](https://devobs.p7t.tech/)
 
