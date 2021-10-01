@@ -34,6 +34,12 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
   * **Nombre de participants à la dernière édition**:
   * **Twitter**: [@DevoxxFR](https://twitter.com/DevoxxFR)
 
+* [Cloud Nord](https://cloudnord.fr/)
+  * **Description**: Un moment unique pour partager et découvrir les enjeux et technologies stratégiques du moment afin d'en comprendre leurs intérêts et impacts sur le SI, l'entreprise et la société
+  * **Lieu**: Lille (59)
+  * **Nombre de participants à la dernière édition**: 350+
+  * **Twitter**: [@Cloud_Nord](https://twitter.com/Cloud_Nord)
+
 * [Snowcamp](https://snowcamp.io/fr/)
   * **Description**: Une conférence unique pour les devs, les ops et les archis.
   * **Lieu**: Grenoble (38)
