@@ -256,6 +256,10 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
   * **Description**: L’objectif des Compagnons du DevOps, est de nous unir, d’échanger entre pairs, de développer une culture DevOps dans nos entreprises. Pas juste en France, mais dans toute la francophonie.
   * **Animateur**: [Christφphe Chaudier](https://twitter.com/c_chaudier)
 
+* [Slack du Big Data Hebdo](http://trkit.io/s/invitebdh)
+
+  * **Description**: Slack lié au Podcast éponyme. Ce Slack fédère une communauté Data francophone autour des quatre animateurs réguliers que sont Vincent, Alexander, Jérôme et Nicolas. Les informations remontées par la communauté sont régulièrement packagées par Nicolas [sous forme de brèves](https://bigdatahebdo.com/breve/) et certaines nourrissent le Podcast.
+  * **Animateur**: [Vincent Heuschling](https://twitter.com/vhe74), [Alexander Dejanovski](https://twitter.com/alexanderdeja), [Jérôme Mainaud](https://twitter.com/jxerome) et [Nicolas Steinmetz](https://twitter.com/nsteinmetz)
 
 # Contribuer
 Les contributions sont les bienvenues!
