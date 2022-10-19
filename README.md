@@ -22,6 +22,13 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
 # Conférences
 
 ## France
+
+* [Kubernetes Community Days France (KCD France)](https://kcdfrance.fr/)
+  * **Description**: KCD France est la nouvelle grande conférence Française sur le Cloud Native et le DevOps, orientée communauté et expertise.
+  * **Lieu**: Paris (75) - Edition 2023
+  * **Nombre de participants attendus**: 800+
+  * **Twitter**: [@KubeDaysFrance](https://twitter.com/KubeDaysFrance)
+
 * [DevOps D-Day](https://2019.devops-dday.com/)
   * **Description**: Depuis 2015, le DEVOPS D-DAY rassemble tous les acteurs du monde IT passionnés par l'écosystème DevOps, Cloud, Docker… mais aussi du Libre !
   * **Lieu**: Marseille (13)
