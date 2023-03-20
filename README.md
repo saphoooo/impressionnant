@@ -150,6 +150,11 @@ Une liste organisée de toutes les impressionnantes ressources technologiques fr
   * **Lieu**: Brest (29)
   * **Twitter**: [@FinistDevs](https://twitter.com/FinistDevs)
 
+* [Les meetups Nantais](https://nantes.community/)
+  * **Description**: Toutes les informations sur les meetups nantais (les CFP, les personnes à contacter) sont regroupées sur [ce repository GitHub](https://nantes.community/).
+  * **Lieu**: Nantes (44)
+
+
 ## Belgique
 
 ## Luxembourg
